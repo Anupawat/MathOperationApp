@@ -1,0 +1,7 @@
+C:\Users\asr77\source\repos\MathOperationApp\MathOperationApp\bin\Debug\MathOperationApp.exe.config
+C:\Users\asr77\source\repos\MathOperationApp\MathOperationApp\bin\Debug\MathOperationApp.exe
+C:\Users\asr77\source\repos\MathOperationApp\MathOperationApp\bin\Debug\MathOperationApp.pdb
+C:\Users\asr77\source\repos\MathOperationApp\MathOperationApp\obj\Debug\MathOperationApp.csproj.AssemblyReference.cache
+C:\Users\asr77\source\repos\MathOperationApp\MathOperationApp\obj\Debug\MathOperationApp.csproj.CoreCompileInputs.cache
+C:\Users\asr77\source\repos\MathOperationApp\MathOperationApp\obj\Debug\MathOperationApp.exe
+C:\Users\asr77\source\repos\MathOperationApp\MathOperationApp\obj\Debug\MathOperationApp.pdb
